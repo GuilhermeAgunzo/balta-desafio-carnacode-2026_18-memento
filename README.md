@@ -1,4 +1,4 @@
-![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
+![CO-6](https://github.com/user-attachments/assets/e03073e5-1f5e-4ccf-afe8-2c9c1daddb3a)
 
 ## 🥁 CarnaCode 2026 - Desafio 18 - Memento
 
