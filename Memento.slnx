@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Memento/Memento.csproj" />
+  </Folder>
+</Solution>
